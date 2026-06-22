@@ -768,5 +768,8252 @@
     "visual_strength": 5,
     "romance_level": 2,
     "violence_level": 0
+  },
+   {
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance",
+      "crime"
+    ],
+    "moods": [
+      "playful",
+      "romantic"
+    ],
+    "styles": [
+      "classic hollywood",
+      "disguise"
+    ],
+    "themes": [
+      "classic hollywood",
+      "disguise"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "The Apartment",
+    "year": 1960,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "bittersweet",
+      "lonely"
+    ],
+    "styles": [
+      "workplace",
+      "moral compromise"
+    ],
+    "themes": [
+      "workplace",
+      "moral compromise"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Dr. Strangelove",
+    "year": 1964,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "war"
+    ],
+    "moods": [
+      "absurd",
+      "political"
+    ],
+    "styles": [
+      "nuclear anxiety",
+      "deadpan"
+    ],
+    "themes": [
+      "nuclear anxiety",
+      "deadpan"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Playtime",
+    "year": 1967,
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "genres": [
+      "comedy",
+      "satire"
+    ],
+    "moods": [
+      "visual comedy",
+      "modernist"
+    ],
+    "styles": [
+      "playful",
+      "urban"
+    ],
+    "themes": [
+      "playful",
+      "urban"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Harold and Maude",
+    "year": 1971,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "romance"
+    ],
+    "moods": [
+      "morbid",
+      "sweet"
+    ],
+    "styles": [
+      "quirky",
+      "anti-authority"
+    ],
+    "themes": [
+      "quirky",
+      "anti-authority"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Annie Hall",
+    "year": 1977,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance"
+    ],
+    "moods": [
+      "neurotic",
+      "witty"
+    ],
+    "styles": [
+      "bittersweet",
+      "urban"
+    ],
+    "themes": [
+      "bittersweet",
+      "urban"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Being There",
+    "year": 1979,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "satire",
+      "drama"
+    ],
+    "moods": [
+      "deadpan",
+      "strange"
+    ],
+    "styles": [
+      "political",
+      "gentle"
+    ],
+    "themes": [
+      "political",
+      "gentle"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "mockumentary",
+      "music"
+    ],
+    "moods": [
+      "deadpan",
+      "silly"
+    ],
+    "styles": [
+      "showbiz",
+      "cult"
+    ],
+    "themes": [
+      "showbiz",
+      "cult"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "After Hours",
+    "year": 1985,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "thriller"
+    ],
+    "moods": [
+      "nocturnal",
+      "anxious"
+    ],
+    "styles": [
+      "urban nightmare",
+      "surreal"
+    ],
+    "themes": [
+      "urban nightmare",
+      "surreal"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Tampopo",
+    "year": 1985,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "comedy",
+      "food film"
+    ],
+    "moods": [
+      "playful",
+      "sensual"
+    ],
+    "styles": [
+      "warm",
+      "episodic"
+    ],
+    "themes": [
+      "warm",
+      "episodic"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Withnail and I",
+    "year": 1987,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "dark comedy",
+      "buddy film"
+    ],
+    "moods": [
+      "bleak",
+      "witty"
+    ],
+    "styles": [
+      "hungover",
+      "cult"
+    ],
+    "themes": [
+      "hungover",
+      "cult"
+    ],
+    "accessibility": 3,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "A Fish Called Wanda",
+    "year": 1988,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "crime"
+    ],
+    "moods": [
+      "farce",
+      "chaotic"
+    ],
+    "styles": [
+      "witty",
+      "heist"
+    ],
+    "themes": [
+      "witty",
+      "heist"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Heathers",
+    "year": 1989,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "teen",
+      "crime"
+    ],
+    "moods": [
+      "mean",
+      "stylized"
+    ],
+    "styles": [
+      "dark",
+      "teen angst"
+    ],
+    "themes": [
+      "dark",
+      "teen angst"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Delicatessen",
+    "year": 1991,
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "dark comedy",
+      "fantasy"
+    ],
+    "moods": [
+      "macabre",
+      "whimsical"
+    ],
+    "styles": [
+      "surreal",
+      "post-apocalyptic"
+    ],
+    "themes": [
+      "surreal",
+      "post-apocalyptic"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance",
+      "fantasy"
+    ],
+    "moods": [
+      "warm",
+      "existential"
+    ],
+    "styles": [
+      "time loop",
+      "funny"
+    ],
+    "themes": [
+      "time loop",
+      "funny"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "The Hudsucker Proxy",
+    "year": 1994,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "fantasy",
+      "satire"
+    ],
+    "moods": [
+      "screwball",
+      "stylized"
+    ],
+    "styles": [
+      "art deco",
+      "eccentric"
+    ],
+    "themes": [
+      "art deco",
+      "eccentric"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Muriel's Wedding",
+    "year": 1994,
+    "countries": [
+      "Australia"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "funny",
+      "sad"
+    ],
+    "styles": [
+      "uplifting",
+      "pop music"
+    ],
+    "themes": [
+      "uplifting",
+      "pop music"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Birdcage",
+    "year": 1996,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "farce"
+    ],
+    "moods": [
+      "warm",
+      "chaotic"
+    ],
+    "styles": [
+      "family",
+      "performance"
+    ],
+    "themes": [
+      "family",
+      "performance"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Waiting for Guffman",
+    "year": 1996,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "mockumentary"
+    ],
+    "moods": [
+      "awkward",
+      "affectionate"
+    ],
+    "styles": [
+      "small-town",
+      "theater"
+    ],
+    "themes": [
+      "small-town",
+      "theater"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "crime",
+      "neo-noir"
+    ],
+    "moods": [
+      "absurd",
+      "stoner"
+    ],
+    "styles": [
+      "laid-back",
+      "cult"
+    ],
+    "themes": [
+      "laid-back",
+      "cult"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Office Space",
+    "year": 1999,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "satire"
+    ],
+    "moods": [
+      "workplace",
+      "deadpan"
+    ],
+    "styles": [
+      "relatable",
+      "rebellion"
+    ],
+    "themes": [
+      "relatable",
+      "rebellion"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Election",
+    "year": 1999,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "teen"
+    ],
+    "moods": [
+      "sharp",
+      "mean"
+    ],
+    "styles": [
+      "ambition",
+      "politics"
+    ],
+    "themes": [
+      "ambition",
+      "politics"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "In the Loop",
+    "year": 2009,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "political"
+    ],
+    "moods": [
+      "profane",
+      "furious"
+    ],
+    "styles": [
+      "bureaucracy",
+      "rapid-fire"
+    ],
+    "themes": [
+      "bureaucracy",
+      "rapid-fire"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Four Lions",
+    "year": 2010,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire"
+    ],
+    "moods": [
+      "absurd",
+      "uncomfortable"
+    ],
+    "styles": [
+      "political",
+      "deadpan"
+    ],
+    "themes": [
+      "political",
+      "deadpan"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "year": 2014,
+    "countries": [
+      "New Zealand"
+    ],
+    "genres": [
+      "comedy",
+      "horror",
+      "mockumentary"
+    ],
+    "moods": [
+      "deadpan",
+      "spooky"
+    ],
+    "styles": [
+      "playful",
+      "vampires"
+    ],
+    "themes": [
+      "playful",
+      "vampires"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Death of Stalin",
+    "year": 2017,
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "history"
+    ],
+    "moods": [
+      "vicious",
+      "absurd"
+    ],
+    "styles": [
+      "power",
+      "period"
+    ],
+    "themes": [
+      "power",
+      "period"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "dark comedy",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "tense",
+      "funny"
+    ],
+    "styles": [
+      "class satire",
+      "bleak"
+    ],
+    "themes": [
+      "class satire",
+      "bleak"
+    ],
+    "accessibility": 3,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Triangle of Sadness",
+    "year": 2022,
+    "countries": [
+      "Sweden",
+      "Germany",
+      "France",
+      "United Kingdom"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire"
+    ],
+    "moods": [
+      "cruel",
+      "absurd"
+    ],
+    "styles": [
+      "wealth",
+      "chaotic"
+    ],
+    "themes": [
+      "wealth",
+      "chaotic"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Banshees of Inisherin",
+    "year": 2022,
+    "countries": [
+      "Ireland",
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "drama"
+    ],
+    "moods": [
+      "dry",
+      "melancholy"
+    ],
+    "styles": [
+      "rural",
+      "friendship"
+    ],
+    "themes": [
+      "rural",
+      "friendship"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Holdovers",
+    "year": 2023,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "drama",
+      "period"
+    ],
+    "moods": [
+      "warm",
+      "bittersweet"
+    ],
+    "styles": [
+      "cozy",
+      "found family"
+    ],
+    "themes": [
+      "cozy",
+      "found family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "countries": [
+      "Brazil"
+    ],
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "urgent",
+      "violent"
+    ],
+    "styles": [
+      "tragic",
+      "kinetic"
+    ],
+    "themes": [
+      "tragic",
+      "kinetic"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "Central Station",
+    "year": 1998,
+    "countries": [
+      "Brazil",
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "road movie"
+    ],
+    "moods": [
+      "tender",
+      "sad"
+    ],
+    "styles": [
+      "hopeful",
+      "journey"
+    ],
+    "themes": [
+      "hopeful",
+      "journey"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Black Orpheus",
+    "year": 1959,
+    "countries": [
+      "Brazil",
+      "France",
+      "Italy"
+    ],
+    "genres": [
+      "romance",
+      "musical",
+      "myth"
+    ],
+    "moods": [
+      "vibrant",
+      "sensual"
+    ],
+    "styles": [
+      "tragic",
+      "mythic"
+    ],
+    "themes": [
+      "tragic",
+      "mythic"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 5,
+    "violence_level": 1
+  },
+  {
+    "title": "Bacurau",
+    "year": 2019,
+    "countries": [
+      "Brazil",
+      "France"
+    ],
+    "genres": [
+      "thriller",
+      "western",
+      "satire"
+    ],
+    "moods": [
+      "angry",
+      "violent"
+    ],
+    "styles": [
+      "strange",
+      "political"
+    ],
+    "themes": [
+      "strange",
+      "political"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Wild Tales",
+    "year": 2014,
+    "countries": [
+      "Argentina",
+      "Spain"
+    ],
+    "genres": [
+      "dark comedy",
+      "anthology",
+      "thriller"
+    ],
+    "moods": [
+      "angry",
+      "chaotic"
+    ],
+    "styles": [
+      "revenge",
+      "satirical"
+    ],
+    "themes": [
+      "revenge",
+      "satirical"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "countries": [
+      "Argentina",
+      "Spain"
+    ],
+    "genres": [
+      "crime",
+      "drama",
+      "romance"
+    ],
+    "moods": [
+      "haunting",
+      "melancholy"
+    ],
+    "styles": [
+      "justice",
+      "obsession"
+    ],
+    "themes": [
+      "justice",
+      "obsession"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Roma",
+    "year": 2018,
+    "countries": [
+      "Mexico",
+      "United States"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "quiet",
+      "intimate"
+    ],
+    "styles": [
+      "black-and-white",
+      "memory"
+    ],
+    "themes": [
+      "black-and-white",
+      "memory"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Y Tu Mamá También",
+    "year": 2001,
+    "countries": [
+      "Mexico"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age",
+      "road movie"
+    ],
+    "moods": [
+      "sensual",
+      "bittersweet"
+    ],
+    "styles": [
+      "restless",
+      "friendship"
+    ],
+    "themes": [
+      "restless",
+      "friendship"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Amores Perros",
+    "year": 2000,
+    "countries": [
+      "Mexico"
+    ],
+    "genres": [
+      "drama",
+      "crime",
+      "anthology"
+    ],
+    "moods": [
+      "gritty",
+      "tragic"
+    ],
+    "styles": [
+      "intense",
+      "fate"
+    ],
+    "themes": [
+      "intense",
+      "fate"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "The Exterminating Angel",
+    "year": 1962,
+    "countries": [
+      "Mexico"
+    ],
+    "genres": [
+      "surrealism",
+      "dark comedy",
+      "satire"
+    ],
+    "moods": [
+      "absurd",
+      "claustrophobic"
+    ],
+    "styles": [
+      "class",
+      "surreal"
+    ],
+    "themes": [
+      "class",
+      "surreal"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "countries": [
+      "Mexico",
+      "Spain"
+    ],
+    "genres": [
+      "dark fantasy",
+      "war",
+      "drama"
+    ],
+    "moods": [
+      "tragic",
+      "mystical"
+    ],
+    "styles": [
+      "fairy tale",
+      "violent"
+    ],
+    "themes": [
+      "fairy tale",
+      "violent"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "The Spirit of the Beehive",
+    "year": 1973,
+    "countries": [
+      "Spain"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "quiet",
+      "haunting"
+    ],
+    "styles": [
+      "childhood",
+      "poetic"
+    ],
+    "themes": [
+      "childhood",
+      "poetic"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "year": 1988,
+    "countries": [
+      "Spain"
+    ],
+    "genres": [
+      "comedy",
+      "melodrama"
+    ],
+    "moods": [
+      "chaotic",
+      "colorful"
+    ],
+    "styles": [
+      "romantic",
+      "farce"
+    ],
+    "themes": [
+      "romantic",
+      "farce"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Talk to Her",
+    "year": 2002,
+    "countries": [
+      "Spain"
+    ],
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "moods": [
+      "melancholy",
+      "intimate"
+    ],
+    "styles": [
+      "strange",
+      "desire"
+    ],
+    "themes": [
+      "strange",
+      "desire"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Volver",
+    "year": 2006,
+    "countries": [
+      "Spain"
+    ],
+    "genres": [
+      "drama",
+      "comedy",
+      "melodrama"
+    ],
+    "moods": [
+      "warm",
+      "ghostly"
+    ],
+    "styles": [
+      "family",
+      "colorful"
+    ],
+    "themes": [
+      "family",
+      "colorful"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "countries": [
+      "Germany"
+    ],
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "political"
+    ],
+    "styles": [
+      "surveillance",
+      "conscience"
+    ],
+    "themes": [
+      "surveillance",
+      "conscience"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Run Lola Run",
+    "year": 1998,
+    "countries": [
+      "Germany"
+    ],
+    "genres": [
+      "thriller",
+      "crime",
+      "romance"
+    ],
+    "moods": [
+      "urgent",
+      "kinetic"
+    ],
+    "styles": [
+      "alternate timelines",
+      "techno"
+    ],
+    "themes": [
+      "alternate timelines",
+      "techno"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Good Bye Lenin!",
+    "year": 2003,
+    "countries": [
+      "Germany"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "warm",
+      "bittersweet"
+    ],
+    "styles": [
+      "political",
+      "family"
+    ],
+    "themes": [
+      "political",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The American Friend",
+    "year": 1977,
+    "countries": [
+      "Germany",
+      "France"
+    ],
+    "genres": [
+      "crime",
+      "neo-noir",
+      "thriller"
+    ],
+    "moods": [
+      "moody",
+      "lonely"
+    ],
+    "styles": [
+      "stylish",
+      "existential"
+    ],
+    "themes": [
+      "stylish",
+      "existential"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Aguirre, the Wrath of God",
+    "year": 1972,
+    "countries": [
+      "West Germany"
+    ],
+    "genres": [
+      "adventure",
+      "historical drama"
+    ],
+    "moods": [
+      "hypnotic",
+      "ominous"
+    ],
+    "styles": [
+      "madness",
+      "jungle"
+    ],
+    "themes": [
+      "madness",
+      "jungle"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "La Dolce Vita",
+    "year": 1960,
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "satire"
+    ],
+    "moods": [
+      "decadent",
+      "glamorous"
+    ],
+    "styles": [
+      "melancholy",
+      "episodic"
+    ],
+    "themes": [
+      "melancholy",
+      "episodic"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "8½",
+    "year": 1963,
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "fantasy"
+    ],
+    "moods": [
+      "dreamlike",
+      "self-reflexive"
+    ],
+    "styles": [
+      "surreal",
+      "auteur"
+    ],
+    "themes": [
+      "surreal",
+      "auteur"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "countries": [
+      "Italy"
+    ],
+    "genres": [
+      "drama",
+      "neorealism"
+    ],
+    "moods": [
+      "sad",
+      "humanist"
+    ],
+    "styles": [
+      "street-level",
+      "poverty"
+    ],
+    "themes": [
+      "street-level",
+      "poverty"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "nostalgic",
+      "warm"
+    ],
+    "styles": [
+      "bittersweet",
+      "cinema"
+    ],
+    "themes": [
+      "bittersweet",
+      "cinema"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Great Beauty",
+    "year": 2013,
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "satire"
+    ],
+    "moods": [
+      "decadent",
+      "reflective"
+    ],
+    "styles": [
+      "baroque",
+      "visually stunning"
+    ],
+    "themes": [
+      "baroque",
+      "visually stunning"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Conformist",
+    "year": 1970,
+    "countries": [
+      "Italy",
+      "France",
+      "West Germany"
+    ],
+    "genres": [
+      "political drama",
+      "thriller"
+    ],
+    "moods": [
+      "elegant",
+      "cold"
+    ],
+    "styles": [
+      "fascism",
+      "stylized"
+    ],
+    "themes": [
+      "fascism",
+      "stylized"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Z",
+    "year": 1969,
+    "countries": [
+      "France",
+      "Algeria"
+    ],
+    "genres": [
+      "political thriller",
+      "drama"
+    ],
+    "moods": [
+      "urgent",
+      "angry"
+    ],
+    "styles": [
+      "corruption",
+      "procedural"
+    ],
+    "themes": [
+      "corruption",
+      "procedural"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The 400 Blows",
+    "year": 1959,
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "sad",
+      "rebellious"
+    ],
+    "styles": [
+      "childhood",
+      "new wave"
+    ],
+    "themes": [
+      "childhood",
+      "new wave"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Breathless",
+    "year": 1960,
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "crime",
+      "romance",
+      "new wave"
+    ],
+    "moods": [
+      "cool",
+      "restless"
+    ],
+    "styles": [
+      "urban",
+      "playful"
+    ],
+    "themes": [
+      "urban",
+      "playful"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Cleo from 5 to 7",
+    "year": 1962,
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "genres": [
+      "drama",
+      "new wave"
+    ],
+    "moods": [
+      "anxious",
+      "elegant"
+    ],
+    "styles": [
+      "real-time",
+      "mortality"
+    ],
+    "themes": [
+      "real-time",
+      "mortality"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "genres": [
+      "romance",
+      "comedy"
+    ],
+    "moods": [
+      "whimsical",
+      "romantic"
+    ],
+    "styles": [
+      "colorful",
+      "kindness"
+    ],
+    "themes": [
+      "colorful",
+      "kindness"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "romance",
+      "period drama"
+    ],
+    "moods": [
+      "restrained",
+      "romantic"
+    ],
+    "styles": [
+      "painterly",
+      "longing"
+    ],
+    "themes": [
+      "painterly",
+      "longing"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Raw",
+    "year": 2016,
+    "countries": [
+      "France",
+      "Belgium"
+    ],
+    "genres": [
+      "horror",
+      "coming-of-age"
+    ],
+    "moods": [
+      "disturbing",
+      "sensual"
+    ],
+    "styles": [
+      "body horror",
+      "identity"
+    ],
+    "themes": [
+      "body horror",
+      "identity"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "Titane",
+    "year": 2021,
+    "countries": [
+      "France",
+      "Belgium"
+    ],
+    "genres": [
+      "body horror",
+      "drama"
+    ],
+    "moods": [
+      "extreme",
+      "strange"
+    ],
+    "styles": [
+      "tender",
+      "transformation"
+    ],
+    "themes": [
+      "tender",
+      "transformation"
+    ],
+    "accessibility": 2,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "The Intouchables",
+    "year": 2011,
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "warm",
+      "uplifting"
+    ],
+    "styles": [
+      "friendship",
+      "accessible"
+    ],
+    "themes": [
+      "friendship",
+      "accessible"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Third Man",
+    "year": 1949,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "noir",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "shadowy",
+      "cynical"
+    ],
+    "styles": [
+      "postwar",
+      "atmospheric"
+    ],
+    "themes": [
+      "postwar",
+      "atmospheric"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Brief Encounter",
+    "year": 1945,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "restrained",
+      "tragic"
+    ],
+    "styles": [
+      "longing",
+      "duty"
+    ],
+    "themes": [
+      "longing",
+      "duty"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 5,
+    "violence_level": 1
+  },
+  {
+    "title": "The Red Shoes",
+    "year": 1948,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "drama",
+      "musical",
+      "romance"
+    ],
+    "moods": [
+      "obsessive",
+      "romantic"
+    ],
+    "styles": [
+      "ballet",
+      "technicolor"
+    ],
+    "themes": [
+      "ballet",
+      "technicolor"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Kind Hearts and Coronets",
+    "year": 1949,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "dark comedy",
+      "crime"
+    ],
+    "moods": [
+      "dry",
+      "macabre"
+    ],
+    "styles": [
+      "class",
+      "revenge"
+    ],
+    "themes": [
+      "class",
+      "revenge"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Local Hero",
+    "year": 1983,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "gentle",
+      "quirky"
+    ],
+    "styles": [
+      "small-town",
+      "cozy"
+    ],
+    "themes": [
+      "small-town",
+      "cozy"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "drama",
+      "dark comedy",
+      "crime"
+    ],
+    "moods": [
+      "frenetic",
+      "bleak"
+    ],
+    "styles": [
+      "youth",
+      "addiction"
+    ],
+    "themes": [
+      "youth",
+      "addiction"
+    ],
+    "accessibility": 3,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Children of Men",
+    "year": 2006,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "bleak",
+      "urgent"
+    ],
+    "styles": [
+      "dystopian",
+      "hope"
+    ],
+    "themes": [
+      "dystopian",
+      "hope"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "In Bruges",
+    "year": 2008,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "guilt",
+      "funny"
+    ],
+    "styles": [
+      "melancholy",
+      "violent"
+    ],
+    "themes": [
+      "melancholy",
+      "violent"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Paddington 2",
+    "year": 2017,
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "genres": [
+      "comedy",
+      "family",
+      "adventure"
+    ],
+    "moods": [
+      "warm",
+      "playful"
+    ],
+    "styles": [
+      "kind",
+      "colorful"
+    ],
+    "themes": [
+      "kind",
+      "colorful"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Aftersun",
+    "year": 2022,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "tender"
+    ],
+    "styles": [
+      "memory",
+      "haunting"
+    ],
+    "themes": [
+      "memory",
+      "haunting"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Seven Samurai",
+    "year": 1954,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "samurai",
+      "action",
+      "drama"
+    ],
+    "moods": [
+      "epic",
+      "heroic"
+    ],
+    "styles": [
+      "tragic",
+      "ensemble"
+    ],
+    "themes": [
+      "tragic",
+      "ensemble"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "Rashomon",
+    "year": 1950,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "drama",
+      "mystery",
+      "period"
+    ],
+    "moods": [
+      "ambiguous",
+      "philosophical"
+    ],
+    "styles": [
+      "truth",
+      "forest"
+    ],
+    "themes": [
+      "truth",
+      "forest"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Ugetsu",
+    "year": 1953,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "ghost story",
+      "period drama"
+    ],
+    "moods": [
+      "haunting",
+      "tragic"
+    ],
+    "styles": [
+      "mystical",
+      "folkloric"
+    ],
+    "themes": [
+      "mystical",
+      "folkloric"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 3,
+    "violence_level": 1
+  },
+  {
+    "title": "Tokyo Story",
+    "year": 1953,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "quiet",
+      "sad"
+    ],
+    "styles": [
+      "humanist",
+      "family"
+    ],
+    "themes": [
+      "humanist",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Woman in the Dunes",
+    "year": 1964,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "drama",
+      "surrealism"
+    ],
+    "moods": [
+      "claustrophobic",
+      "sensual"
+    ],
+    "styles": [
+      "existential",
+      "allegorical"
+    ],
+    "themes": [
+      "existential",
+      "allegorical"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Hausu",
+    "year": 1977,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "horror",
+      "comedy",
+      "fantasy"
+    ],
+    "moods": [
+      "chaotic",
+      "campy"
+    ],
+    "styles": [
+      "surreal",
+      "colorful"
+    ],
+    "themes": [
+      "surreal",
+      "colorful"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Ran",
+    "year": 1985,
+    "countries": [
+      "Japan",
+      "France"
+    ],
+    "genres": [
+      "samurai",
+      "tragedy",
+      "war"
+    ],
+    "moods": [
+      "epic",
+      "tragic"
+    ],
+    "styles": [
+      "operatic",
+      "visually stunning"
+    ],
+    "themes": [
+      "operatic",
+      "visually stunning"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "animation",
+      "sci-fi",
+      "action"
+    ],
+    "moods": [
+      "apocalyptic",
+      "cyberpunk"
+    ],
+    "styles": [
+      "kinetic",
+      "intense"
+    ],
+    "themes": [
+      "kinetic",
+      "intense"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "Perfect Blue",
+    "year": 1997,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "animation",
+      "psychological thriller",
+      "horror"
+    ],
+    "moods": [
+      "paranoid",
+      "disturbing"
+    ],
+    "styles": [
+      "identity",
+      "celebrity"
+    ],
+    "themes": [
+      "identity",
+      "celebrity"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "animation",
+      "fantasy",
+      "adventure"
+    ],
+    "moods": [
+      "magical",
+      "dreamlike"
+    ],
+    "styles": [
+      "wonder-filled",
+      "hand-drawn"
+    ],
+    "themes": [
+      "wonder-filled",
+      "hand-drawn"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Still Walking",
+    "year": 2008,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "drama",
+      "family"
+    ],
+    "moods": [
+      "quiet",
+      "bittersweet"
+    ],
+    "styles": [
+      "observational",
+      "grief"
+    ],
+    "themes": [
+      "observational",
+      "grief"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Shoplifters",
+    "year": 2018,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "moods": [
+      "tender",
+      "sad"
+    ],
+    "styles": [
+      "humanist",
+      "chosen family"
+    ],
+    "themes": [
+      "humanist",
+      "chosen family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "thriller",
+      "mystery",
+      "revenge"
+    ],
+    "moods": [
+      "violent",
+      "twisted"
+    ],
+    "styles": [
+      "tragic",
+      "stylized"
+    ],
+    "themes": [
+      "tragic",
+      "stylized"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "bleak",
+      "darkly funny"
+    ],
+    "styles": [
+      "procedural",
+      "rural"
+    ],
+    "themes": [
+      "procedural",
+      "rural"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Host",
+    "year": 2006,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "monster movie",
+      "horror",
+      "comedy"
+    ],
+    "moods": [
+      "chaotic",
+      "funny"
+    ],
+    "styles": [
+      "creature feature",
+      "family"
+    ],
+    "themes": [
+      "creature feature",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Burning",
+    "year": 2018,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "mystery",
+      "drama",
+      "psychological thriller"
+    ],
+    "moods": [
+      "enigmatic",
+      "melancholy"
+    ],
+    "styles": [
+      "class",
+      "obsession"
+    ],
+    "themes": [
+      "class",
+      "obsession"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Handmaiden",
+    "year": 2016,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "romance",
+      "thriller",
+      "period drama"
+    ],
+    "moods": [
+      "sensual",
+      "twisty"
+    ],
+    "styles": [
+      "lush",
+      "deception"
+    ],
+    "themes": [
+      "lush",
+      "deception"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Decision to Leave",
+    "year": 2022,
+    "countries": [
+      "South Korea"
+    ],
+    "genres": [
+      "romance",
+      "mystery",
+      "neo-noir"
+    ],
+    "moods": [
+      "elegant",
+      "melancholy"
+    ],
+    "styles": [
+      "obsession",
+      "procedural"
+    ],
+    "themes": [
+      "obsession",
+      "procedural"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "countries": [
+      "Iran"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "tense",
+      "moral"
+    ],
+    "styles": [
+      "realist",
+      "family"
+    ],
+    "themes": [
+      "realist",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Taste of Cherry",
+    "year": 1997,
+    "countries": [
+      "Iran"
+    ],
+    "genres": [
+      "drama",
+      "road movie"
+    ],
+    "moods": [
+      "quiet",
+      "philosophical"
+    ],
+    "styles": [
+      "mortality",
+      "contemplative"
+    ],
+    "themes": [
+      "mortality",
+      "contemplative"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Close-Up",
+    "year": 1990,
+    "countries": [
+      "Iran"
+    ],
+    "genres": [
+      "docufiction",
+      "drama"
+    ],
+    "moods": [
+      "humanist",
+      "reflective"
+    ],
+    "styles": [
+      "identity",
+      "cinema"
+    ],
+    "themes": [
+      "identity",
+      "cinema"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Wind Will Carry Us",
+    "year": 1999,
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "quiet",
+      "mysterious"
+    ],
+    "styles": [
+      "rural",
+      "death"
+    ],
+    "themes": [
+      "rural",
+      "death"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Pather Panchali",
+    "year": 1955,
+    "countries": [
+      "India"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "tender",
+      "sad"
+    ],
+    "styles": [
+      "rural",
+      "childhood"
+    ],
+    "themes": [
+      "rural",
+      "childhood"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Music Room",
+    "year": 1958,
+    "countries": [
+      "India"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "elegiac",
+      "melancholy"
+    ],
+    "styles": [
+      "decline",
+      "art"
+    ],
+    "themes": [
+      "decline",
+      "art"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Sholay",
+    "year": 1975,
+    "countries": [
+      "India"
+    ],
+    "genres": [
+      "action",
+      "western",
+      "adventure"
+    ],
+    "moods": [
+      "heroic",
+      "melodramatic"
+    ],
+    "styles": [
+      "friendship",
+      "revenge"
+    ],
+    "themes": [
+      "friendship",
+      "revenge"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Lagaan",
+    "year": 2001,
+    "countries": [
+      "India"
+    ],
+    "genres": [
+      "musical",
+      "sports",
+      "period drama"
+    ],
+    "moods": [
+      "uplifting",
+      "epic"
+    ],
+    "styles": [
+      "resistance",
+      "community"
+    ],
+    "themes": [
+      "resistance",
+      "community"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "countries": [
+      "India"
+    ],
+    "genres": [
+      "comedy",
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "funny",
+      "emotional"
+    ],
+    "styles": [
+      "friendship",
+      "education"
+    ],
+    "themes": [
+      "friendship",
+      "education"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Lunchbox",
+    "year": 2013,
+    "countries": [
+      "India",
+      "France",
+      "Germany"
+    ],
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "gentle",
+      "lonely"
+    ],
+    "styles": [
+      "chance",
+      "connection"
+    ],
+    "themes": [
+      "chance",
+      "connection"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "RRR",
+    "year": 2022,
+    "countries": [
+      "India"
+    ],
+    "genres": [
+      "action",
+      "musical",
+      "historical fantasy"
+    ],
+    "moods": [
+      "maximalist",
+      "heroic"
+    ],
+    "styles": [
+      "joyful",
+      "friendship"
+    ],
+    "themes": [
+      "joyful",
+      "friendship"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "countries": [
+      "Hong Kong",
+      "France"
+    ],
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "restrained",
+      "melancholy"
+    ],
+    "styles": [
+      "elegant",
+      "longing"
+    ],
+    "themes": [
+      "elegant",
+      "longing"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Chungking Express",
+    "year": 1994,
+    "countries": [
+      "Hong Kong"
+    ],
+    "genres": [
+      "romance",
+      "comedy",
+      "crime"
+    ],
+    "moods": [
+      "lonely",
+      "playful"
+    ],
+    "styles": [
+      "neon",
+      "chance"
+    ],
+    "themes": [
+      "neon",
+      "chance"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Hard Boiled",
+    "year": 1992,
+    "countries": [
+      "Hong Kong"
+    ],
+    "genres": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "moods": [
+      "explosive",
+      "heroic"
+    ],
+    "styles": [
+      "gun-fu",
+      "kinetic"
+    ],
+    "themes": [
+      "gun-fu",
+      "kinetic"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "year": 1991,
+    "countries": [
+      "Taiwan"
+    ],
+    "genres": [
+      "drama",
+      "crime",
+      "coming-of-age"
+    ],
+    "moods": [
+      "melancholy",
+      "epic"
+    ],
+    "styles": [
+      "youth",
+      "violence"
+    ],
+    "themes": [
+      "youth",
+      "violence"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Yi Yi",
+    "year": 2000,
+    "countries": [
+      "Taiwan",
+      "Japan"
+    ],
+    "genres": [
+      "drama",
+      "family"
+    ],
+    "moods": [
+      "reflective",
+      "tender"
+    ],
+    "styles": [
+      "urban",
+      "meaning"
+    ],
+    "themes": [
+      "urban",
+      "meaning"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "A City of Sadness",
+    "year": 1989,
+    "countries": [
+      "Taiwan"
+    ],
+    "genres": [
+      "historical drama"
+    ],
+    "moods": [
+      "somber",
+      "political"
+    ],
+    "styles": [
+      "family",
+      "trauma"
+    ],
+    "themes": [
+      "family",
+      "trauma"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Farewell My Concubine",
+    "year": 1993,
+    "countries": [
+      "China",
+      "Hong Kong"
+    ],
+    "genres": [
+      "historical drama",
+      "romance"
+    ],
+    "moods": [
+      "epic",
+      "tragic"
+    ],
+    "styles": [
+      "operatic",
+      "art"
+    ],
+    "themes": [
+      "operatic",
+      "art"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 5,
+    "violence_level": 1
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "year": 1991,
+    "countries": [
+      "China",
+      "Hong Kong",
+      "Taiwan"
+    ],
+    "genres": [
+      "period drama"
+    ],
+    "moods": [
+      "oppressive",
+      "elegant"
+    ],
+    "styles": [
+      "jealousy",
+      "ritualistic"
+    ],
+    "themes": [
+      "jealousy",
+      "ritualistic"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Hero",
+    "year": 2002,
+    "countries": [
+      "China",
+      "Hong Kong"
+    ],
+    "genres": [
+      "wuxia",
+      "action",
+      "period"
+    ],
+    "moods": [
+      "grand",
+      "romantic"
+    ],
+    "styles": [
+      "color-coded",
+      "sacrifice"
+    ],
+    "themes": [
+      "color-coded",
+      "sacrifice"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "year": 2000,
+    "countries": [
+      "Taiwan",
+      "Hong Kong",
+      "United States",
+      "China"
+    ],
+    "genres": [
+      "wuxia",
+      "romance",
+      "adventure"
+    ],
+    "moods": [
+      "romantic",
+      "melancholy"
+    ],
+    "styles": [
+      "wire-fu",
+      "freedom"
+    ],
+    "themes": [
+      "wire-fu",
+      "freedom"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "House of Flying Daggers",
+    "year": 2004,
+    "countries": [
+      "China",
+      "Hong Kong"
+    ],
+    "genres": [
+      "wuxia",
+      "romance",
+      "action"
+    ],
+    "moods": [
+      "tragic",
+      "lush"
+    ],
+    "styles": [
+      "colorful",
+      "deception"
+    ],
+    "themes": [
+      "colorful",
+      "deception"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 5,
+    "violence_level": 3
+  },
+  {
+    "title": "The Grandmaster",
+    "year": 2013,
+    "countries": [
+      "Hong Kong",
+      "China"
+    ],
+    "genres": [
+      "martial arts",
+      "biopic",
+      "drama"
+    ],
+    "moods": [
+      "elegant",
+      "melancholy"
+    ],
+    "styles": [
+      "mastery",
+      "period"
+    ],
+    "themes": [
+      "mastery",
+      "period"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "A Touch of Sin",
+    "year": 2013,
+    "countries": [
+      "China",
+      "Japan"
+    ],
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "angry",
+      "bleak"
+    ],
+    "styles": [
+      "social realist",
+      "violence"
+    ],
+    "themes": [
+      "social realist",
+      "violence"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "genres": [
+      "thriller",
+      "adventure"
+    ],
+    "moods": [
+      "tense",
+      "bleak"
+    ],
+    "styles": [
+      "suspense",
+      "road movie"
+    ],
+    "themes": [
+      "suspense",
+      "road movie"
+    ],
+    "accessibility": 3,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Le Samouraï",
+    "year": 1967,
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "genres": [
+      "crime",
+      "neo-noir",
+      "thriller"
+    ],
+    "moods": [
+      "cool",
+      "lonely"
+    ],
+    "styles": [
+      "minimalist",
+      "professional"
+    ],
+    "themes": [
+      "minimalist",
+      "professional"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Army of Shadows",
+    "year": 1969,
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "genres": [
+      "war",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "bleak",
+      "stoic"
+    ],
+    "styles": [
+      "resistance",
+      "duty"
+    ],
+    "themes": [
+      "resistance",
+      "duty"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "countries": [
+      "Italy",
+      "Algeria"
+    ],
+    "genres": [
+      "war",
+      "political drama"
+    ],
+    "moods": [
+      "urgent",
+      "angry"
+    ],
+    "styles": [
+      "docudrama",
+      "colonialism"
+    ],
+    "themes": [
+      "docudrama",
+      "colonialism"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Black Girl",
+    "year": 1966,
+    "countries": [
+      "Senegal",
+      "France"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "quiet",
+      "angry"
+    ],
+    "styles": [
+      "alienated",
+      "colonialism"
+    ],
+    "themes": [
+      "alienated",
+      "colonialism"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Touki Bouki",
+    "year": 1973,
+    "countries": [
+      "Senegal"
+    ],
+    "genres": [
+      "drama",
+      "road movie"
+    ],
+    "moods": [
+      "restless",
+      "surreal"
+    ],
+    "styles": [
+      "rebellious",
+      "escape"
+    ],
+    "themes": [
+      "rebellious",
+      "escape"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Yeelen",
+    "year": 1987,
+    "countries": [
+      "Mali",
+      "Burkina Faso",
+      "France",
+      "West Germany",
+      "Japan"
+    ],
+    "genres": [
+      "fantasy",
+      "myth",
+      "drama"
+    ],
+    "moods": [
+      "mystical",
+      "ancient"
+    ],
+    "styles": [
+      "ritualistic",
+      "destiny"
+    ],
+    "themes": [
+      "ritualistic",
+      "destiny"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Timbuktu",
+    "year": 2014,
+    "countries": [
+      "Mauritania",
+      "France"
+    ],
+    "genres": [
+      "drama",
+      "political"
+    ],
+    "moods": [
+      "quiet",
+      "tragic"
+    ],
+    "styles": [
+      "desert",
+      "dignity"
+    ],
+    "themes": [
+      "desert",
+      "dignity"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 3,
+    "violence_level": 1
+  },
+  {
+    "title": "Atlantics",
+    "year": 2019,
+    "countries": [
+      "Senegal",
+      "France",
+      "Belgium"
+    ],
+    "genres": [
+      "romance",
+      "ghost story",
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "mystical"
+    ],
+    "styles": [
+      "migration",
+      "longing"
+    ],
+    "themes": [
+      "migration",
+      "longing"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Gods Must Be Crazy",
+    "year": 1980,
+    "countries": [
+      "South Africa",
+      "Botswana"
+    ],
+    "genres": [
+      "comedy",
+      "adventure"
+    ],
+    "moods": [
+      "silly",
+      "light"
+    ],
+    "styles": [
+      "culture clash",
+      "slapstick"
+    ],
+    "themes": [
+      "culture clash",
+      "slapstick"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "District 9",
+    "year": 2009,
+    "countries": [
+      "South Africa",
+      "United States",
+      "New Zealand"
+    ],
+    "genres": [
+      "sci-fi",
+      "action",
+      "satire"
+    ],
+    "moods": [
+      "gritty",
+      "angry"
+    ],
+    "styles": [
+      "mockumentary",
+      "xenophobia"
+    ],
+    "themes": [
+      "mockumentary",
+      "xenophobia"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Tsotsi",
+    "year": 2005,
+    "countries": [
+      "South Africa",
+      "United Kingdom"
+    ],
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "gritty",
+      "redemptive"
+    ],
+    "styles": [
+      "urban",
+      "poverty"
+    ],
+    "themes": [
+      "urban",
+      "poverty"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Cairo Station",
+    "year": 1958,
+    "countries": [
+      "Egypt"
+    ],
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "obsessive",
+      "tense"
+    ],
+    "styles": [
+      "noir",
+      "class"
+    ],
+    "themes": [
+      "noir",
+      "class"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Night of Counting the Years",
+    "year": 1969,
+    "countries": [
+      "Egypt"
+    ],
+    "genres": [
+      "historical drama"
+    ],
+    "moods": [
+      "stately",
+      "haunting"
+    ],
+    "styles": [
+      "heritage",
+      "formal"
+    ],
+    "themes": [
+      "heritage",
+      "formal"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Capernaum",
+    "year": 2018,
+    "countries": [
+      "Lebanon",
+      "France",
+      "United States"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "devastating",
+      "urgent"
+    ],
+    "styles": [
+      "poverty",
+      "childhood"
+    ],
+    "themes": [
+      "poverty",
+      "childhood"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Theeb",
+    "year": 2014,
+    "countries": [
+      "Jordan",
+      "United Arab Emirates",
+      "Qatar",
+      "United Kingdom"
+    ],
+    "genres": [
+      "adventure",
+      "western",
+      "period"
+    ],
+    "moods": [
+      "tense",
+      "desert"
+    ],
+    "styles": [
+      "survival",
+      "coming-of-age"
+    ],
+    "themes": [
+      "survival",
+      "coming-of-age"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Celebration",
+    "year": 1998,
+    "countries": [
+      "Denmark"
+    ],
+    "genres": [
+      "drama",
+      "dark comedy"
+    ],
+    "moods": [
+      "uncomfortable",
+      "explosive"
+    ],
+    "styles": [
+      "family secrets",
+      "dogme"
+    ],
+    "themes": [
+      "family secrets",
+      "dogme"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Another Round",
+    "year": 2020,
+    "countries": [
+      "Denmark",
+      "Sweden",
+      "Netherlands"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "bittersweet",
+      "funny"
+    ],
+    "styles": [
+      "friendship",
+      "middle age"
+    ],
+    "themes": [
+      "friendship",
+      "middle age"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Hunt",
+    "year": 2012,
+    "countries": [
+      "Denmark",
+      "Sweden"
+    ],
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "devastating"
+    ],
+    "styles": [
+      "accusation",
+      "community"
+    ],
+    "themes": [
+      "accusation",
+      "community"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "countries": [
+      "Sweden"
+    ],
+    "genres": [
+      "psychological drama",
+      "arthouse"
+    ],
+    "moods": [
+      "mysterious",
+      "intimate"
+    ],
+    "styles": [
+      "identity",
+      "experimental"
+    ],
+    "themes": [
+      "identity",
+      "experimental"
+    ],
+    "accessibility": 2,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "countries": [
+      "Sweden"
+    ],
+    "genres": [
+      "fantasy",
+      "drama",
+      "period"
+    ],
+    "moods": [
+      "philosophical",
+      "dark"
+    ],
+    "styles": [
+      "medieval",
+      "faith"
+    ],
+    "themes": [
+      "medieval",
+      "faith"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Fanny and Alexander",
+    "year": 1982,
+    "countries": [
+      "Sweden",
+      "France",
+      "West Germany"
+    ],
+    "genres": [
+      "family drama",
+      "period"
+    ],
+    "moods": [
+      "warm",
+      "dark"
+    ],
+    "styles": [
+      "magical",
+      "theatrical"
+    ],
+    "themes": [
+      "magical",
+      "theatrical"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Let the Right One In",
+    "year": 2008,
+    "countries": [
+      "Sweden"
+    ],
+    "genres": [
+      "horror",
+      "romance",
+      "coming-of-age"
+    ],
+    "moods": [
+      "lonely",
+      "cold"
+    ],
+    "styles": [
+      "tender",
+      "vampire"
+    ],
+    "themes": [
+      "tender",
+      "vampire"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "The Worst Person in the World",
+    "year": 2021,
+    "countries": [
+      "Norway",
+      "France",
+      "Sweden",
+      "Denmark"
+    ],
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "restless",
+      "funny"
+    ],
+    "styles": [
+      "adulthood",
+      "choice"
+    ],
+    "themes": [
+      "adulthood",
+      "choice"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Thelma",
+    "year": 2017,
+    "countries": [
+      "Norway",
+      "France",
+      "Denmark",
+      "Sweden"
+    ],
+    "genres": [
+      "supernatural thriller",
+      "drama"
+    ],
+    "moods": [
+      "repressed",
+      "eerie"
+    ],
+    "styles": [
+      "desire",
+      "faith"
+    ],
+    "themes": [
+      "desire",
+      "faith"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Rare Exports",
+    "year": 2010,
+    "countries": [
+      "Finland",
+      "Norway",
+      "France",
+      "Sweden"
+    ],
+    "genres": [
+      "horror",
+      "dark comedy",
+      "fantasy"
+    ],
+    "moods": [
+      "snowy",
+      "weird"
+    ],
+    "styles": [
+      "folkloric",
+      "holiday"
+    ],
+    "themes": [
+      "folkloric",
+      "holiday"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Man Without a Past",
+    "year": 2002,
+    "countries": [
+      "Finland",
+      "Germany",
+      "France"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "deadpan",
+      "gentle"
+    ],
+    "styles": [
+      "reinvention",
+      "working-class"
+    ],
+    "themes": [
+      "reinvention",
+      "working-class"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Ida",
+    "year": 2013,
+    "countries": [
+      "Poland",
+      "Denmark",
+      "France",
+      "United Kingdom"
+    ],
+    "genres": [
+      "drama",
+      "period"
+    ],
+    "moods": [
+      "austere",
+      "quiet"
+    ],
+    "styles": [
+      "faith",
+      "history"
+    ],
+    "themes": [
+      "faith",
+      "history"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Cold War",
+    "year": 2018,
+    "countries": [
+      "Poland",
+      "France",
+      "United Kingdom"
+    ],
+    "genres": [
+      "romance",
+      "period drama",
+      "music"
+    ],
+    "moods": [
+      "romantic",
+      "tragic"
+    ],
+    "styles": [
+      "black-and-white",
+      "exile"
+    ],
+    "themes": [
+      "black-and-white",
+      "exile"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 5,
+    "violence_level": 1
+  },
+  {
+    "title": "The Double Life of Véronique",
+    "year": 1991,
+    "countries": [
+      "France",
+      "Poland",
+      "Norway"
+    ],
+    "genres": [
+      "drama",
+      "fantasy",
+      "romance"
+    ],
+    "moods": [
+      "mysterious",
+      "sensual"
+    ],
+    "styles": [
+      "fate",
+      "connection"
+    ],
+    "themes": [
+      "fate",
+      "connection"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Shop on Main Street",
+    "year": 1965,
+    "countries": [
+      "Czechoslovakia"
+    ],
+    "genres": [
+      "drama",
+      "war",
+      "dark comedy"
+    ],
+    "moods": [
+      "tragic",
+      "humanist"
+    ],
+    "styles": [
+      "moral compromise",
+      "period"
+    ],
+    "themes": [
+      "moral compromise",
+      "period"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "Daisies",
+    "year": 1966,
+    "countries": [
+      "Czechoslovakia"
+    ],
+    "genres": [
+      "comedy",
+      "surrealism",
+      "satire"
+    ],
+    "moods": [
+      "anarchic",
+      "playful"
+    ],
+    "styles": [
+      "collage",
+      "rebellion"
+    ],
+    "themes": [
+      "collage",
+      "rebellion"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Satantango",
+    "year": 1994,
+    "countries": [
+      "Hungary",
+      "Germany",
+      "Switzerland"
+    ],
+    "genres": [
+      "drama",
+      "arthouse"
+    ],
+    "moods": [
+      "bleak",
+      "hypnotic"
+    ],
+    "styles": [
+      "slow cinema",
+      "collapse"
+    ],
+    "themes": [
+      "slow cinema",
+      "collapse"
+    ],
+    "accessibility": 2,
+    "weirdness": 5,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Son of Saul",
+    "year": 2015,
+    "countries": [
+      "Hungary"
+    ],
+    "genres": [
+      "war",
+      "drama"
+    ],
+    "moods": [
+      "harrowing",
+      "claustrophobic"
+    ],
+    "styles": [
+      "survival",
+      "dignity"
+    ],
+    "themes": [
+      "survival",
+      "dignity"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "4 Months 3 Weeks and 2 Days",
+    "year": 2007,
+    "countries": [
+      "Romania"
+    ],
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "realist"
+    ],
+    "styles": [
+      "oppression",
+      "choice"
+    ],
+    "themes": [
+      "oppression",
+      "choice"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Toni Erdmann",
+    "year": 2016,
+    "countries": [
+      "Germany",
+      "Austria",
+      "Romania"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "awkward",
+      "funny"
+    ],
+    "styles": [
+      "family",
+      "work"
+    ],
+    "themes": [
+      "family",
+      "work"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Stalker",
+    "year": 1979,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "sci-fi",
+      "philosophical drama"
+    ],
+    "moods": [
+      "mysterious",
+      "spiritual"
+    ],
+    "styles": [
+      "ruins",
+      "slow cinema"
+    ],
+    "themes": [
+      "ruins",
+      "slow cinema"
+    ],
+    "accessibility": 2,
+    "weirdness": 4,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Solaris",
+    "year": 1972,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "sci-fi",
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "philosophical"
+    ],
+    "styles": [
+      "memory",
+      "grief"
+    ],
+    "themes": [
+      "memory",
+      "grief"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "war",
+      "drama"
+    ],
+    "moods": [
+      "horrifying",
+      "traumatic"
+    ],
+    "styles": [
+      "anti-war",
+      "surreal realism"
+    ],
+    "themes": [
+      "anti-war",
+      "surreal realism"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Cranes Are Flying",
+    "year": 1957,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "war",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "tragic",
+      "romantic"
+    ],
+    "styles": [
+      "expressive camera",
+      "loss"
+    ],
+    "themes": [
+      "expressive camera",
+      "loss"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 5,
+    "violence_level": 3
+  },
+  {
+    "title": "The Color of Pomegranates",
+    "year": 1969,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "arthouse",
+      "biopic",
+      "poetry"
+    ],
+    "moods": [
+      "mystical",
+      "strange"
+    ],
+    "styles": [
+      "tableaux",
+      "symbolic"
+    ],
+    "themes": [
+      "tableaux",
+      "symbolic"
+    ],
+    "accessibility": 2,
+    "weirdness": 5,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Man with a Movie Camera",
+    "year": 1929,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "documentary",
+      "experimental"
+    ],
+    "moods": [
+      "energetic",
+      "playful"
+    ],
+    "styles": [
+      "montage",
+      "city symphony"
+    ],
+    "themes": [
+      "montage",
+      "city symphony"
+    ],
+    "accessibility": 3,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Battleship Potemkin",
+    "year": 1925,
+    "countries": [
+      "Soviet Union"
+    ],
+    "genres": [
+      "silent",
+      "historical drama",
+      "war"
+    ],
+    "moods": [
+      "urgent",
+      "revolutionary"
+    ],
+    "styles": [
+      "montage",
+      "oppression"
+    ],
+    "themes": [
+      "montage",
+      "oppression"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Dersu Uzala",
+    "year": 1975,
+    "countries": [
+      "Soviet Union",
+      "Japan"
+    ],
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "moods": [
+      "gentle",
+      "epic"
+    ],
+    "styles": [
+      "wilderness",
+      "friendship"
+    ],
+    "themes": [
+      "wilderness",
+      "friendship"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Loveless",
+    "year": 2017,
+    "countries": [
+      "Russia",
+      "France",
+      "Germany",
+      "Belgium"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "cold",
+      "bleak"
+    ],
+    "styles": [
+      "family",
+      "society"
+    ],
+    "themes": [
+      "family",
+      "society"
+    ],
+    "accessibility": 3,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Leviathan",
+    "year": 2014,
+    "countries": [
+      "Russia"
+    ],
+    "genres": [
+      "drama",
+      "satire"
+    ],
+    "moods": [
+      "bleak",
+      "angry"
+    ],
+    "styles": [
+      "corruption",
+      "faith"
+    ],
+    "themes": [
+      "corruption",
+      "faith"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "countries": [
+      "Australia",
+      "United States"
+    ],
+    "genres": [
+      "action",
+      "sci-fi",
+      "post-apocalyptic"
+    ],
+    "moods": [
+      "frenetic",
+      "mythic"
+    ],
+    "styles": [
+      "practical effects",
+      "liberation"
+    ],
+    "themes": [
+      "practical effects",
+      "liberation"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "Picnic at Hanging Rock",
+    "year": 1975,
+    "countries": [
+      "Australia"
+    ],
+    "genres": [
+      "mystery",
+      "period drama"
+    ],
+    "moods": [
+      "dreamlike",
+      "eerie"
+    ],
+    "styles": [
+      "ambiguous",
+      "repression"
+    ],
+    "themes": [
+      "ambiguous",
+      "repression"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Babadook",
+    "year": 2014,
+    "countries": [
+      "Australia"
+    ],
+    "genres": [
+      "horror",
+      "psychological drama"
+    ],
+    "moods": [
+      "grieving",
+      "scary"
+    ],
+    "styles": [
+      "domestic horror",
+      "motherhood"
+    ],
+    "themes": [
+      "domestic horror",
+      "motherhood"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Walkabout",
+    "year": 1971,
+    "countries": [
+      "United Kingdom",
+      "Australia"
+    ],
+    "genres": [
+      "adventure",
+      "coming-of-age",
+      "survival"
+    ],
+    "moods": [
+      "mysterious",
+      "wilderness"
+    ],
+    "styles": [
+      "civilization",
+      "nature"
+    ],
+    "themes": [
+      "civilization",
+      "nature"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Hunt for the Wilderpeople",
+    "year": 2016,
+    "countries": [
+      "New Zealand"
+    ],
+    "genres": [
+      "comedy",
+      "adventure"
+    ],
+    "moods": [
+      "warm",
+      "funny"
+    ],
+    "styles": [
+      "wilderness",
+      "found family"
+    ],
+    "themes": [
+      "wilderness",
+      "found family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Piano",
+    "year": 1993,
+    "countries": [
+      "New Zealand",
+      "Australia",
+      "France"
+    ],
+    "genres": [
+      "period drama",
+      "romance"
+    ],
+    "moods": [
+      "sensual",
+      "gothic"
+    ],
+    "styles": [
+      "coastal",
+      "desire"
+    ],
+    "themes": [
+      "coastal",
+      "desire"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Once Were Warriors",
+    "year": 1994,
+    "countries": [
+      "New Zealand"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "raw",
+      "violent"
+    ],
+    "styles": [
+      "family",
+      "trauma"
+    ],
+    "themes": [
+      "family",
+      "trauma"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Whale Rider",
+    "year": 2002,
+    "countries": [
+      "New Zealand",
+      "Germany"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "uplifting",
+      "spiritual"
+    ],
+    "styles": [
+      "tradition",
+      "leadership"
+    ],
+    "themes": [
+      "tradition",
+      "leadership"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Boy",
+    "year": 2010,
+    "countries": [
+      "New Zealand"
+    ],
+    "genres": [
+      "comedy",
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "funny",
+      "tender"
+    ],
+    "styles": [
+      "child perspective",
+      "family"
+    ],
+    "themes": [
+      "child perspective",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Sweet Country",
+    "year": 2017,
+    "countries": [
+      "Australia"
+    ],
+    "genres": [
+      "western",
+      "drama"
+    ],
+    "moods": [
+      "tense",
+      "bleak"
+    ],
+    "styles": [
+      "outback",
+      "justice"
+    ],
+    "themes": [
+      "outback",
+      "justice"
+    ],
+    "accessibility": 2,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Once",
+    "year": 2007,
+    "countries": [
+      "Ireland"
+    ],
+    "genres": [
+      "romance",
+      "music",
+      "drama"
+    ],
+    "moods": [
+      "gentle",
+      "romantic"
+    ],
+    "styles": [
+      "music-driven",
+      "connection"
+    ],
+    "themes": [
+      "music-driven",
+      "connection"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Sing Street",
+    "year": 2016,
+    "countries": [
+      "Ireland",
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "music",
+      "coming-of-age"
+    ],
+    "moods": [
+      "uplifting",
+      "romantic"
+    ],
+    "styles": [
+      "1980s",
+      "creativity"
+    ],
+    "themes": [
+      "1980s",
+      "creativity"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Commitments",
+    "year": 1991,
+    "countries": [
+      "Ireland",
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "music",
+      "drama"
+    ],
+    "moods": [
+      "energetic",
+      "funny"
+    ],
+    "styles": [
+      "ensemble",
+      "community"
+    ],
+    "themes": [
+      "ensemble",
+      "community"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Quiet Girl",
+    "year": 2022,
+    "countries": [
+      "Ireland"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "quiet",
+      "tender"
+    ],
+    "styles": [
+      "neglect",
+      "kindness"
+    ],
+    "themes": [
+      "neglect",
+      "kindness"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Secret of Kells",
+    "year": 2009,
+    "countries": [
+      "Ireland",
+      "France",
+      "Belgium"
+    ],
+    "genres": [
+      "animation",
+      "fantasy",
+      "family"
+    ],
+    "moods": [
+      "magical",
+      "folk art"
+    ],
+    "styles": [
+      "faith",
+      "art"
+    ],
+    "themes": [
+      "faith",
+      "art"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Song of the Sea",
+    "year": 2014,
+    "countries": [
+      "Ireland",
+      "Belgium",
+      "Denmark",
+      "France",
+      "Luxembourg"
+    ],
+    "genres": [
+      "animation",
+      "fantasy",
+      "family"
+    ],
+    "moods": [
+      "gentle",
+      "melancholy"
+    ],
+    "styles": [
+      "folklore",
+      "grief"
+    ],
+    "themes": [
+      "folklore",
+      "grief"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Wolfwalkers",
+    "year": 2020,
+    "countries": [
+      "Ireland",
+      "Luxembourg",
+      "France"
+    ],
+    "genres": [
+      "animation",
+      "fantasy",
+      "adventure"
+    ],
+    "moods": [
+      "wild",
+      "magical"
+    ],
+    "styles": [
+      "nature",
+      "freedom"
+    ],
+    "themes": [
+      "nature",
+      "freedom"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Triplets of Belleville",
+    "year": 2003,
+    "countries": [
+      "France",
+      "Belgium",
+      "Canada"
+    ],
+    "genres": [
+      "animation",
+      "comedy",
+      "adventure"
+    ],
+    "moods": [
+      "quirky",
+      "playful"
+    ],
+    "styles": [
+      "wordless",
+      "surreal"
+    ],
+    "themes": [
+      "wordless",
+      "surreal"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Persepolis",
+    "year": 2007,
+    "countries": [
+      "France",
+      "United States"
+    ],
+    "genres": [
+      "animation",
+      "coming-of-age",
+      "political"
+    ],
+    "moods": [
+      "funny",
+      "sad"
+    ],
+    "styles": [
+      "exile",
+      "graphic novel"
+    ],
+    "themes": [
+      "exile",
+      "graphic novel"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Waltz with Bashir",
+    "year": 2008,
+    "countries": [
+      "Israel",
+      "France",
+      "Germany"
+    ],
+    "genres": [
+      "animation",
+      "documentary",
+      "war"
+    ],
+    "moods": [
+      "haunting",
+      "dreamlike"
+    ],
+    "styles": [
+      "memory",
+      "guilt"
+    ],
+    "themes": [
+      "memory",
+      "guilt"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Tale of the Princess Kaguya",
+    "year": 2013,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "animation",
+      "fantasy",
+      "period"
+    ],
+    "moods": [
+      "melancholy",
+      "delicate"
+    ],
+    "styles": [
+      "watercolor",
+      "impermanence"
+    ],
+    "themes": [
+      "watercolor",
+      "impermanence"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Paprika",
+    "year": 2006,
+    "countries": [
+      "Japan"
+    ],
+    "genres": [
+      "animation",
+      "sci-fi",
+      "fantasy"
+    ],
+    "moods": [
+      "dreamlike",
+      "chaotic"
+    ],
+    "styles": [
+      "psychedelic",
+      "technology"
+    ],
+    "themes": [
+      "psychedelic",
+      "technology"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Fantastic Planet",
+    "year": 1973,
+    "countries": [
+      "France",
+      "Czechoslovakia"
+    ],
+    "genres": [
+      "animation",
+      "sci-fi",
+      "fantasy"
+    ],
+    "moods": [
+      "strange",
+      "alien"
+    ],
+    "styles": [
+      "psychedelic",
+      "oppression"
+    ],
+    "themes": [
+      "psychedelic",
+      "oppression"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "animation",
+      "sci-fi",
+      "family"
+    ],
+    "moods": [
+      "warm",
+      "nostalgic"
+    ],
+    "styles": [
+      "friendship",
+      "choice"
+    ],
+    "themes": [
+      "friendship",
+      "choice"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "animation",
+      "superhero",
+      "action"
+    ],
+    "moods": [
+      "joyful",
+      "kinetic"
+    ],
+    "styles": [
+      "comic-book",
+      "identity"
+    ],
+    "themes": [
+      "comic-book",
+      "identity"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The General",
+    "year": 1926,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "silent comedy",
+      "action"
+    ],
+    "moods": [
+      "playful",
+      "clever"
+    ],
+    "styles": [
+      "stunts",
+      "adventure"
+    ],
+    "themes": [
+      "stunts",
+      "adventure"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "satire",
+      "silent"
+    ],
+    "moods": [
+      "playful",
+      "social"
+    ],
+    "styles": [
+      "physical comedy",
+      "work"
+    ],
+    "themes": [
+      "physical comedy",
+      "work"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "His Girl Friday",
+    "year": 1940,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance"
+    ],
+    "moods": [
+      "fast",
+      "witty"
+    ],
+    "styles": [
+      "screwball",
+      "journalism"
+    ],
+    "themes": [
+      "screwball",
+      "journalism"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "To Be or Not to Be",
+    "year": 1942,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "war",
+      "satire"
+    ],
+    "moods": [
+      "witty",
+      "theatrical"
+    ],
+    "styles": [
+      "resistance",
+      "performance"
+    ],
+    "themes": [
+      "resistance",
+      "performance"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Lady Eve",
+    "year": 1941,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance"
+    ],
+    "moods": [
+      "playful",
+      "romantic"
+    ],
+    "styles": [
+      "deception",
+      "screwball"
+    ],
+    "themes": [
+      "deception",
+      "screwball"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Sullivan's Travels",
+    "year": 1941,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "satire",
+      "road movie"
+    ],
+    "moods": [
+      "funny",
+      "humanist"
+    ],
+    "styles": [
+      "art",
+      "poverty"
+    ],
+    "themes": [
+      "art",
+      "poverty"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Producers",
+    "year": 1967,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "satire"
+    ],
+    "moods": [
+      "outrageous",
+      "silly"
+    ],
+    "styles": [
+      "showbiz",
+      "greed"
+    ],
+    "themes": [
+      "showbiz",
+      "greed"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "comedy",
+      "fantasy",
+      "adventure"
+    ],
+    "moods": [
+      "absurd",
+      "silly"
+    ],
+    "styles": [
+      "medieval parody",
+      "cult"
+    ],
+    "themes": [
+      "medieval parody",
+      "cult"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Life of Brian",
+    "year": 1979,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "comedy",
+      "satire",
+      "historical"
+    ],
+    "moods": [
+      "irreverent",
+      "absurd"
+    ],
+    "styles": [
+      "faith",
+      "politics"
+    ],
+    "themes": [
+      "faith",
+      "politics"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Airplane!",
+    "year": 1980,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "parody"
+    ],
+    "moods": [
+      "silly",
+      "fast"
+    ],
+    "styles": [
+      "spoof",
+      "slapstick"
+    ],
+    "themes": [
+      "spoof",
+      "slapstick"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Clue",
+    "year": 1985,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "mystery"
+    ],
+    "moods": [
+      "playful",
+      "chaotic"
+    ],
+    "styles": [
+      "campy",
+      "ensemble"
+    ],
+    "themes": [
+      "campy",
+      "ensemble"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Raising Arizona",
+    "year": 1987,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "crime"
+    ],
+    "moods": [
+      "madcap",
+      "sweet"
+    ],
+    "styles": [
+      "stylized",
+      "family"
+    ],
+    "themes": [
+      "stylized",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Planes Trains and Automobiles",
+    "year": 1987,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "road movie"
+    ],
+    "moods": [
+      "warm",
+      "chaotic"
+    ],
+    "styles": [
+      "buddy comedy",
+      "travel"
+    ],
+    "themes": [
+      "buddy comedy",
+      "travel"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "My Cousin Vinny",
+    "year": 1992,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "courtroom"
+    ],
+    "moods": [
+      "funny",
+      "satisfying"
+    ],
+    "styles": [
+      "justice",
+      "fish-out-of-water"
+    ],
+    "themes": [
+      "justice",
+      "fish-out-of-water"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Best in Show",
+    "year": 2000,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "mockumentary"
+    ],
+    "moods": [
+      "awkward",
+      "affectionate"
+    ],
+    "styles": [
+      "competition",
+      "ensemble"
+    ],
+    "themes": [
+      "competition",
+      "ensemble"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "countries": [
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "horror",
+      "zombie"
+    ],
+    "moods": [
+      "funny",
+      "bloody"
+    ],
+    "styles": [
+      "genre parody",
+      "friendship"
+    ],
+    "themes": [
+      "genre parody",
+      "friendship"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "countries": [
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "action",
+      "mystery"
+    ],
+    "moods": [
+      "funny",
+      "kinetic"
+    ],
+    "styles": [
+      "small-town",
+      "conspiracy"
+    ],
+    "themes": [
+      "small-town",
+      "conspiracy"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Bridesmaids",
+    "year": 2011,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance"
+    ],
+    "moods": [
+      "chaotic",
+      "funny"
+    ],
+    "styles": [
+      "friendship",
+      "insecurity"
+    ],
+    "themes": [
+      "friendship",
+      "insecurity"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Game Night",
+    "year": 2018,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "crime",
+      "mystery"
+    ],
+    "moods": [
+      "playful",
+      "fast"
+    ],
+    "styles": [
+      "twisty",
+      "marriage"
+    ],
+    "themes": [
+      "twisty",
+      "marriage"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Booksmart",
+    "year": 2019,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "coming-of-age"
+    ],
+    "moods": [
+      "funny",
+      "warm"
+    ],
+    "styles": [
+      "energetic",
+      "friendship"
+    ],
+    "themes": [
+      "energetic",
+      "friendship"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "war"
+    ],
+    "moods": [
+      "humanist",
+      "melancholy"
+    ],
+    "styles": [
+      "homecoming",
+      "trauma"
+    ],
+    "themes": [
+      "homecoming",
+      "trauma"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "A Matter of Life and Death",
+    "year": 1946,
+    "countries": [
+      "United Kingdom"
+    ],
+    "genres": [
+      "fantasy",
+      "romance",
+      "war"
+    ],
+    "moods": [
+      "romantic",
+      "whimsical"
+    ],
+    "styles": [
+      "afterlife",
+      "fate"
+    ],
+    "themes": [
+      "afterlife",
+      "fate"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "All That Heaven Allows",
+    "year": 1955,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "melodrama",
+      "romance"
+    ],
+    "moods": [
+      "lush",
+      "romantic"
+    ],
+    "styles": [
+      "suburban",
+      "conformity"
+    ],
+    "themes": [
+      "suburban",
+      "conformity"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "noir",
+      "thriller",
+      "fairy tale"
+    ],
+    "moods": [
+      "eerie",
+      "dreamlike"
+    ],
+    "styles": [
+      "gothic",
+      "childhood"
+    ],
+    "themes": [
+      "gothic",
+      "childhood"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "A Face in the Crowd",
+    "year": 1957,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "satire"
+    ],
+    "moods": [
+      "angry",
+      "prophetic"
+    ],
+    "styles": [
+      "media",
+      "manipulation"
+    ],
+    "themes": [
+      "media",
+      "manipulation"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Sweet Smell of Success",
+    "year": 1957,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "noir",
+      "drama"
+    ],
+    "moods": [
+      "cynical",
+      "sharp"
+    ],
+    "styles": [
+      "nocturnal",
+      "corruption"
+    ],
+    "themes": [
+      "nocturnal",
+      "corruption"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Seconds",
+    "year": 1966,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "paranoid",
+      "existential"
+    ],
+    "styles": [
+      "identity",
+      "aging"
+    ],
+    "themes": [
+      "identity",
+      "aging"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Swimmer",
+    "year": 1968,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "surrealism"
+    ],
+    "moods": [
+      "sunny",
+      "sad"
+    ],
+    "styles": [
+      "suburban",
+      "denial"
+    ],
+    "themes": [
+      "suburban",
+      "denial"
+    ],
+    "accessibility": 4,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Last Picture Show",
+    "year": 1971,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "coming-of-age"
+    ],
+    "moods": [
+      "lonely",
+      "melancholy"
+    ],
+    "styles": [
+      "small-town",
+      "desire"
+    ],
+    "themes": [
+      "small-town",
+      "desire"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "McCabe & Mrs. Miller",
+    "year": 1971,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "western",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "muddy",
+      "melancholy"
+    ],
+    "styles": [
+      "anti-western",
+      "capitalism"
+    ],
+    "themes": [
+      "anti-western",
+      "capitalism"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Paper Moon",
+    "year": 1973,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "road movie",
+      "period"
+    ],
+    "moods": [
+      "charming",
+      "clever"
+    ],
+    "styles": [
+      "con artist",
+      "family"
+    ],
+    "themes": [
+      "con artist",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Taking of Pelham One Two Three",
+    "year": 1974,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "crime",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "witty"
+    ],
+    "styles": [
+      "urban",
+      "procedural"
+    ],
+    "themes": [
+      "urban",
+      "procedural"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "sweaty",
+      "funny"
+    ],
+    "styles": [
+      "tragic",
+      "media"
+    ],
+    "themes": [
+      "tragic",
+      "media"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 3,
+    "violence_level": 3
+  },
+  {
+    "title": "Sorcerer",
+    "year": 1977,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "thriller",
+      "adventure"
+    ],
+    "moods": [
+      "sweaty",
+      "bleak"
+    ],
+    "styles": [
+      "danger",
+      "fate"
+    ],
+    "themes": [
+      "danger",
+      "fate"
+    ],
+    "accessibility": 3,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Days of Heaven",
+    "year": 1978,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "period drama",
+      "romance"
+    ],
+    "moods": [
+      "lyrical",
+      "melancholy"
+    ],
+    "styles": [
+      "golden hour",
+      "love triangle"
+    ],
+    "themes": [
+      "golden hour",
+      "love triangle"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Warriors",
+    "year": 1979,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "action",
+      "crime"
+    ],
+    "moods": [
+      "stylized",
+      "nocturnal"
+    ],
+    "styles": [
+      "comic-book",
+      "survival"
+    ],
+    "themes": [
+      "comic-book",
+      "survival"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Atlantic City",
+    "year": 1980,
+    "countries": [
+      "Canada",
+      "France"
+    ],
+    "genres": [
+      "crime",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "seedy"
+    ],
+    "styles": [
+      "reinvention",
+      "aging"
+    ],
+    "themes": [
+      "reinvention",
+      "aging"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "Body Heat",
+    "year": 1981,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "neo-noir",
+      "thriller",
+      "romance"
+    ],
+    "moods": [
+      "sultry",
+      "dangerous"
+    ],
+    "styles": [
+      "desire",
+      "betrayal"
+    ],
+    "themes": [
+      "desire",
+      "betrayal"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 4,
+    "violence_level": 3
+  },
+  {
+    "title": "The King of Comedy",
+    "year": 1982,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "drama"
+    ],
+    "moods": [
+      "cringe",
+      "uncomfortable"
+    ],
+    "styles": [
+      "fame",
+      "delusion"
+    ],
+    "themes": [
+      "fame",
+      "delusion"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Repo Man",
+    "year": 1984,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "comedy",
+      "punk"
+    ],
+    "moods": [
+      "weird",
+      "rebellious"
+    ],
+    "styles": [
+      "alienation",
+      "consumerism"
+    ],
+    "themes": [
+      "alienation",
+      "consumerism"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Brazil",
+    "year": 1985,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "dark comedy",
+      "satire"
+    ],
+    "moods": [
+      "absurd",
+      "dystopian"
+    ],
+    "styles": [
+      "retro-futurist",
+      "bureaucracy"
+    ],
+    "themes": [
+      "retro-futurist",
+      "bureaucracy"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Blue Velvet",
+    "year": 1986,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "mystery",
+      "neo-noir",
+      "psychological thriller"
+    ],
+    "moods": [
+      "eerie",
+      "perverse"
+    ],
+    "styles": [
+      "suburban",
+      "evil"
+    ],
+    "themes": [
+      "suburban",
+      "evil"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "RoboCop",
+    "year": 1987,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "action",
+      "satire"
+    ],
+    "moods": [
+      "violent",
+      "darkly funny"
+    ],
+    "styles": [
+      "cyberpunk",
+      "capitalism"
+    ],
+    "themes": [
+      "cyberpunk",
+      "capitalism"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "They Live",
+    "year": 1988,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "action",
+      "satire"
+    ],
+    "moods": [
+      "angry",
+      "funny"
+    ],
+    "styles": [
+      "paranoid",
+      "consumerism"
+    ],
+    "themes": [
+      "paranoid",
+      "consumerism"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "comedy",
+      "social"
+    ],
+    "moods": [
+      "hot",
+      "funny"
+    ],
+    "styles": [
+      "explosive",
+      "community"
+    ],
+    "themes": [
+      "explosive",
+      "community"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Metropolitan",
+    "year": 1990,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "witty",
+      "dry"
+    ],
+    "styles": [
+      "class",
+      "youth"
+    ],
+    "themes": [
+      "class",
+      "youth"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "crime",
+      "neo-noir"
+    ],
+    "moods": [
+      "cool",
+      "stylish"
+    ],
+    "styles": [
+      "loyalty",
+      "betrayal"
+    ],
+    "themes": [
+      "loyalty",
+      "betrayal"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Player",
+    "year": 1992,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "crime"
+    ],
+    "moods": [
+      "cynical",
+      "witty"
+    ],
+    "styles": [
+      "Hollywood",
+      "self-reflexive"
+    ],
+    "themes": [
+      "Hollywood",
+      "self-reflexive"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Age of Innocence",
+    "year": 1993,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "period drama",
+      "romance"
+    ],
+    "moods": [
+      "restrained",
+      "romantic"
+    ],
+    "styles": [
+      "society",
+      "duty"
+    ],
+    "themes": [
+      "society",
+      "duty"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "year": 1993,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "animation",
+      "fantasy",
+      "musical"
+    ],
+    "moods": [
+      "gothic",
+      "playful"
+    ],
+    "styles": [
+      "stop-motion",
+      "identity"
+    ],
+    "themes": [
+      "stop-motion",
+      "identity"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Ed Wood",
+    "year": 1994,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "biopic"
+    ],
+    "moods": [
+      "affectionate",
+      "odd"
+    ],
+    "styles": [
+      "outsider art",
+      "Hollywood"
+    ],
+    "themes": [
+      "outsider art",
+      "Hollywood"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "countries": [
+      "United States",
+      "Austria"
+    ],
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "romantic",
+      "talky"
+    ],
+    "styles": [
+      "real-time",
+      "connection"
+    ],
+    "themes": [
+      "real-time",
+      "connection"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "genres": [
+      "crime",
+      "dark comedy",
+      "thriller"
+    ],
+    "moods": [
+      "snowy",
+      "deadpan"
+    ],
+    "styles": [
+      "greed",
+      "decency"
+    ],
+    "themes": [
+      "greed",
+      "decency"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Gattaca",
+    "year": 1997,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "elegant",
+      "melancholy"
+    ],
+    "styles": [
+      "genetics",
+      "ambition"
+    ],
+    "themes": [
+      "genetics",
+      "ambition"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "drama",
+      "sci-fi"
+    ],
+    "moods": [
+      "funny",
+      "uncanny"
+    ],
+    "styles": [
+      "media",
+      "freedom"
+    ],
+    "themes": [
+      "media",
+      "freedom"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Rushmore",
+    "year": 1998,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "coming-of-age"
+    ],
+    "moods": [
+      "deadpan",
+      "quirky"
+    ],
+    "styles": [
+      "ambition",
+      "failure"
+    ],
+    "themes": [
+      "ambition",
+      "failure"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Magnolia",
+    "year": 1999,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "ensemble"
+    ],
+    "moods": [
+      "emotional",
+      "operatic"
+    ],
+    "styles": [
+      "family",
+      "chance"
+    ],
+    "themes": [
+      "family",
+      "chance"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Ghost World",
+    "year": 2001,
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Germany"
+    ],
+    "genres": [
+      "dark comedy",
+      "coming-of-age"
+    ],
+    "moods": [
+      "sarcastic",
+      "lonely"
+    ],
+    "styles": [
+      "alienation",
+      "friendship"
+    ],
+    "themes": [
+      "alienation",
+      "friendship"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "romance",
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "anxious",
+      "romantic"
+    ],
+    "styles": [
+      "loneliness",
+      "rage"
+    ],
+    "themes": [
+      "loneliness",
+      "rage"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Adaptation.",
+    "year": 2002,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "drama",
+      "meta"
+    ],
+    "moods": [
+      "neurotic",
+      "funny"
+    ],
+    "styles": [
+      "art",
+      "identity"
+    ],
+    "themes": [
+      "art",
+      "identity"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "romance",
+      "sci-fi",
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "romantic"
+    ],
+    "styles": [
+      "memory",
+      "loss"
+    ],
+    "themes": [
+      "memory",
+      "loss"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Kiss Kiss Bang Bang",
+    "year": 2005,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "crime",
+      "comedy",
+      "neo-noir"
+    ],
+    "moods": [
+      "witty",
+      "chaotic"
+    ],
+    "styles": [
+      "Hollywood",
+      "fast-paced"
+    ],
+    "themes": [
+      "Hollywood",
+      "fast-paced"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "comedy",
+      "drama",
+      "road movie"
+    ],
+    "moods": [
+      "warm",
+      "awkward"
+    ],
+    "styles": [
+      "family",
+      "failure"
+    ],
+    "themes": [
+      "family",
+      "failure"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Zodiac",
+    "year": 2007,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "crime",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "obsessive",
+      "procedural"
+    ],
+    "styles": [
+      "fear",
+      "truth"
+    ],
+    "themes": [
+      "fear",
+      "truth"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "year": 2007,
+    "countries": [
+      "United States",
+      "Canada",
+      "United Kingdom"
+    ],
+    "genres": [
+      "western",
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "elegiac"
+    ],
+    "styles": [
+      "fame",
+      "envy"
+    ],
+    "themes": [
+      "fame",
+      "envy"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Synecdoche New York",
+    "year": 2008,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "dark comedy"
+    ],
+    "moods": [
+      "bleak",
+      "existential"
+    ],
+    "styles": [
+      "meta",
+      "mortality"
+    ],
+    "themes": [
+      "meta",
+      "mortality"
+    ],
+    "accessibility": 3,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Moon",
+    "year": 2009,
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "drama"
+    ],
+    "moods": [
+      "lonely",
+      "melancholy"
+    ],
+    "styles": [
+      "space",
+      "identity"
+    ],
+    "themes": [
+      "space",
+      "identity"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "biopic"
+    ],
+    "moods": [
+      "sharp",
+      "cold"
+    ],
+    "styles": [
+      "ambition",
+      "betrayal"
+    ],
+    "themes": [
+      "ambition",
+      "betrayal"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Drive",
+    "year": 2011,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "neo-noir",
+      "crime",
+      "thriller"
+    ],
+    "moods": [
+      "cool",
+      "violent"
+    ],
+    "styles": [
+      "neon",
+      "loneliness"
+    ],
+    "themes": [
+      "neon",
+      "loneliness"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Cabin in the Woods",
+    "year": 2011,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "horror",
+      "comedy",
+      "meta"
+    ],
+    "moods": [
+      "funny",
+      "bloody"
+    ],
+    "styles": [
+      "meta-horror",
+      "ritual"
+    ],
+    "themes": [
+      "meta-horror",
+      "ritual"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 5
+  },
+  {
+    "title": "Frances Ha",
+    "year": 2012,
+    "countries": [
+      "United States",
+      "Brazil"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "light",
+      "awkward"
+    ],
+    "styles": [
+      "friendship",
+      "adulthood"
+    ],
+    "themes": [
+      "friendship",
+      "adulthood"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "lonely",
+      "romantic"
+    ],
+    "styles": [
+      "technology",
+      "isolation"
+    ],
+    "themes": [
+      "technology",
+      "isolation"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Only Lovers Left Alive",
+    "year": 2013,
+    "countries": [
+      "United Kingdom",
+      "Germany",
+      "France",
+      "United States"
+    ],
+    "genres": [
+      "romance",
+      "fantasy",
+      "drama"
+    ],
+    "moods": [
+      "cool",
+      "nocturnal"
+    ],
+    "styles": [
+      "vampires",
+      "art"
+    ],
+    "themes": [
+      "vampires",
+      "art"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "genres": [
+      "comedy",
+      "adventure",
+      "period"
+    ],
+    "moods": [
+      "playful",
+      "melancholy"
+    ],
+    "styles": [
+      "colorful",
+      "memory"
+    ],
+    "themes": [
+      "colorful",
+      "memory"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Nightcrawler",
+    "year": 2014,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "thriller",
+      "crime",
+      "satire"
+    ],
+    "moods": [
+      "sleazy",
+      "tense"
+    ],
+    "styles": [
+      "media",
+      "ambition"
+    ],
+    "themes": [
+      "media",
+      "ambition"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "The Lobster",
+    "year": 2015,
+    "countries": [
+      "Ireland",
+      "United Kingdom",
+      "Greece",
+      "France",
+      "Netherlands"
+    ],
+    "genres": [
+      "dark comedy",
+      "romance",
+      "sci-fi"
+    ],
+    "moods": [
+      "deadpan",
+      "absurd"
+    ],
+    "styles": [
+      "loneliness",
+      "conformity"
+    ],
+    "themes": [
+      "loneliness",
+      "conformity"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 4,
+    "violence_level": 1
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "genres": [
+      "sci-fi",
+      "drama"
+    ],
+    "moods": [
+      "melancholy",
+      "awe"
+    ],
+    "styles": [
+      "language",
+      "time"
+    ],
+    "themes": [
+      "language",
+      "time"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Florida Project",
+    "year": 2017,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "colorful",
+      "tender"
+    ],
+    "styles": [
+      "childhood",
+      "poverty"
+    ],
+    "themes": [
+      "childhood",
+      "poverty"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 5,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "satire",
+      "sci-fi"
+    ],
+    "moods": [
+      "absurd",
+      "angry"
+    ],
+    "styles": [
+      "capitalism",
+      "labor"
+    ],
+    "themes": [
+      "capitalism",
+      "labor"
+    ],
+    "accessibility": 5,
+    "weirdness": 4,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "The Favourite",
+    "year": 2018,
+    "countries": [
+      "Ireland",
+      "United Kingdom",
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "period drama"
+    ],
+    "moods": [
+      "venomous",
+      "funny"
+    ],
+    "styles": [
+      "court intrigue",
+      "power"
+    ],
+    "themes": [
+      "court intrigue",
+      "power"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 4,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Knives Out",
+    "year": 2019,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "mystery",
+      "comedy",
+      "crime"
+    ],
+    "moods": [
+      "playful",
+      "clever"
+    ],
+    "styles": [
+      "whodunit",
+      "family"
+    ],
+    "themes": [
+      "whodunit",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Uncut Gems",
+    "year": 2019,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "thriller",
+      "crime",
+      "dark comedy"
+    ],
+    "moods": [
+      "anxious",
+      "chaotic"
+    ],
+    "styles": [
+      "risk",
+      "self-destruction"
+    ],
+    "themes": [
+      "risk",
+      "self-destruction"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "Minari",
+    "year": 2020,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "family"
+    ],
+    "moods": [
+      "tender",
+      "quiet"
+    ],
+    "styles": [
+      "immigration",
+      "home"
+    ],
+    "themes": [
+      "immigration",
+      "home"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 1,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "sci-fi",
+      "comedy",
+      "action"
+    ],
+    "moods": [
+      "chaotic",
+      "emotional"
+    ],
+    "styles": [
+      "multiverse",
+      "family"
+    ],
+    "themes": [
+      "multiverse",
+      "family"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 5,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 3
+  },
+  {
+    "title": "TÁR",
+    "year": 2022,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "drama",
+      "psychological drama"
+    ],
+    "moods": [
+      "cold",
+      "tense"
+    ],
+    "styles": [
+      "power",
+      "art"
+    ],
+    "themes": [
+      "power",
+      "art"
+    ],
+    "accessibility": 4,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
+  },
+  {
+    "title": "Past Lives",
+    "year": 2023,
+    "countries": [
+      "United States",
+      "South Korea"
+    ],
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "moods": [
+      "restrained",
+      "melancholy"
+    ],
+    "styles": [
+      "fate",
+      "missed chances"
+    ],
+    "themes": [
+      "fate",
+      "missed chances"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 5,
+    "violence_level": 1
+  },
+  {
+    "title": "May December",
+    "year": 2023,
+    "countries": [
+      "United States"
+    ],
+    "genres": [
+      "dark comedy",
+      "drama"
+    ],
+    "moods": [
+      "uncomfortable",
+      "campy"
+    ],
+    "styles": [
+      "performance",
+      "morality"
+    ],
+    "themes": [
+      "performance",
+      "morality"
+    ],
+    "accessibility": 5,
+    "weirdness": 3,
+    "pacing": 3,
+    "visual_strength": 3,
+    "romance_level": 1,
+    "violence_level": 1
   }
 ]
